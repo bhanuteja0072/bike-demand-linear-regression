@@ -102,19 +102,23 @@ bike-demand-linear-regression/
 ## 🚀 How to Run
 
 **1. Clone the repository:**
-```bash
+
+```cmd
 git clone https://github.com/bhanuteja0072/bike-demand-linear-regression.git
 cd bike-demand-linear-regression
 ```
 
 **2. Install dependencies:**
-```bash
+
+```cmd
 pip install -r requirements.txt
 ```
 
-**3. Launch the notebook:**
-```bash
-jupyter notebook notebooks/bike_demand_linear_regression.ipynb
+**3. Run the notebook:**
+
+```cmd
+jupyter notebook bike_demand_linear_regression.ipynb
+```
 ```
 
 The notebook downloads `day.csv` automatically in cell 2 — no manual data download needed.

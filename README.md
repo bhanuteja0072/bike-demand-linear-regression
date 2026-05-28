@@ -123,7 +123,6 @@ jupyter notebook bike_demand_linear_regression.ipynb
 
 The notebook downloads `day.csv` automatically in cell 2 — no manual data download needed.
 
----
 
 ## 📖 Data Source
 
